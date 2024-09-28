@@ -1,0 +1,42 @@
+Explica cuáles son los pasos que debemos realizar y qué agentes intervendrán en nuestra empresa para desarrollar unas políticas de seguridad de la información con los siguientes procesos:
+
+• Implementación de un sistema de arquitectura cloud computing para nuestros sistemas y redes.
+
+• Implementación de un sistema de autenticación.
+
+• Implementación de un sistema de autorizaciones.
+
+• Implementación de un sistema de análisis de vulnerabilidades.
+
+• Implementación de un sistema de registro y auditoría.
+
+• Proceso de formación y responsabilidades en el uso de la información.
+
+Respuesta:
+
+Para implementar un sistema de arquitectura cloud necesitaremos contactar con un proveedor externo que disponga de estos servicios, nos informe de los planes de contratación que se 
+adecuarían a nuestra empresa y a partir de ahí aceptaríamos x plan y si residímos en españa nos tendrian que dar un documento de confidencialidad y de responsabilidad civil del cual ellos 
+se harían responsables de cualquier problema de seguridad informatica sobre a los datos de nuestra empresa.
+
+Despues implementaríamos el sistema de autentificación propondriamos adjudicar un usuario y una contraseña individual para cada trabajador requiriendo una autentificación de multifactor 
+para los jefes de sección, que requeriran ademas de un usuario y contraseña, una tarjeta de acceso. Se encargarían de la implementación el CIO y su equipo.
+
+A continuación implementaríamos el sistema de autorizaciones, con el cual creariamos roles dentro de la empresa permitiendo el aceso a distintos datos del sistema dependiendo del rol que 
+se les haya asignado. La gestión de las autorizaciones se la dejaríamos al administrador de sistemas siendo el o ellos quienes tendrian el mayor acceso a los datos junto a los maximos 
+responsables de la empresa.
+
+Implementaríamos tambien un sistema de analisis de vulneravilidades, del cual realizaremos revisiones periodicas en busca de vulneravilidades que puedan repercutir de forma maliciosa 
+en el funcionamiento, integridad y honor de nuestra empresa. Para ello utilizaremos una tabla que dividiremos en peligrosidad de la vulneravilidad y tiempo de respuesta para su solución. 
+De ello se encargaría el CIO y su equipo.
+
+Despues implementaríamos un sistema de registro, como su nombre indica llevaríamos un registro completo automático de tiempos de sesión(sus inicios y cierres), datos modificados, 
+intentos fallidos de autentificación, etc... basicamente un sinfin de datos que luego utilizariamos para saber como se están utilizando los recursos los trabajadores y si hay 
+vulneravilidades en nuestro sistema. El CIO y su equipo serían los encargados de su implantación. Ademas tambien necesitaríamos implementar un sistema de auditorias, contratariamos 
+a una empresa externa que se encargase de realizarlas. Nosotros las contrataríamos de forma periodica (cada 1 o 2 años) para que realizasen una auditoría con la que obtendríamos datos 
+que luego utilizaríamos para reforzar nuestra seguridad informática.
+
+Tendremos que implementar un proceso de formación para los trabajadores, para que interioricen nuestras politicas de seguridad de la información y que tengan en mente unas 
+responsabilidades claves del uso de la información, que son, su confidencialidad, su disponibilidad y su integridad. Todo ello sera implementado por el CIO y su equipo.
+
+Despues de su implementación, todas las politicas de la seguridad de información serán mantenidas y gestionadas por el CISO y su equipo, además, cualquier implementación o modificación de 
+las politicas sera realizada por el CIO y su equipo teniendo como puente al CTO.

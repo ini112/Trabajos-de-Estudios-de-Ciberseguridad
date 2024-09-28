@@ -1,0 +1,8 @@
+Como responsables de los servidores web de una empresa, hemos levantado un nuevo hardware de servidor e instalado la distribución 
+de GNU/Linux Ubuntu Server.
+
+Debemos ahora instalar el software de servidor Apache para dejar la infraestructura lista para alojar otros elementos de software.
+
+Respuesta:
+
+Adjunto el ejercicio, debido ha que he tenido problemas escribiendo el ejercicio aquí.

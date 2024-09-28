@@ -1,0 +1,28 @@
+Utiliza una herramienta de escaneo de redes wifi para detectar el nivel de seguridad de la red en la que tienes conectado tu PC.
+
+Comprueba el nivel de seguridad antes de cambiar la contraseña de la red wifi del router y después de establecer una contraseña 
+robusta.
+
+Respuesta:
+
+He empezado instalando el Acrilyc WI-FI Analizer y en un principio mi red LAN tiene el SSID: MOVISTAR_C520 de 2,4GHz + otra red 
+de 5GHz con otro nombre. En la que me voy ha centrar es en la de 2.4GHz ya que funcionan como 2 redes distintas.
+
+Cuando localizo la SSID en el programa de Acrilyc, me aparece una puntuación numerica y a color, en el caso de el apartado de 
+seguridad en la red, tiene una puntuación de 3 y me aparece como metodo de encriptado WPA2-PSK-CCMP y WPS-enabled-1.0. WPA2 es 
+un metodo de encriptación estandar para redes wifi, tambien he estado mirando por internet el significado de PSK que se refiere 
+a contraseña precompartida y CCMP que es un tipo de cifrado en bloque criptografico + codigo de autentificación de mensaje de 
+encadenamiento de bloques de cifrado(CCMP: segun la wiki, esto ya se me va de mis entendimientos de cifrado e ingles). 
+Tambien aparece que tengo tecnologia WPS(nunca lo he utilizado) que es un botón físico del router que se usa para realizar una 
+conexión al router sin necesidad de ponerle la contraseña al dispositivo que quieres conectar, siempre y cuando en ese dispositivo 
+esté disponible la conexión mediante WPS.
+
+Entonces para cambiar la puntuación del router en nivel de seguridad me dispuse a cambiar la contraseña empezando por la parte de 
+debajo del router en la que aparece la dirección http necesaria para meterme en la cunfiguración, junto con su contraseña. Una vez 
+dentro puedo realizar distintos cambios como por ejemplo: cambiar contraseña, cambiar SSID, ocultarlo, metodo de cifrado
+(como el router es, el que es solo tengo como opciones WPA2, WPA2/WPA Mixto y WEP) y metodo de uso de canales. 
+
+Despues de cambiar la contraseña por una de 17 digitos alternando entre numeros, letras(mayusculas y minusculas) y simbolos, vuelvo 
+a configurar el wifi en el portatil y verifico Acrilyc y como resultado obtengo la misma puntuación.
+
+Lo que si que hice fue cambiar la contraseña de acceso al menu de modificación del router por si acaso.

@@ -1,0 +1,205 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{ font-family: "Roboto", sans-serif;
+}
+
+.container{ margin-right: 29%;
+    
+}
+
+header .logo {
+    height: 40px;
+    margin: 10px 60% 30px 40%;
+    max-width: 160px;  
+    min-width: 160px;
+}
+
+main {
+    max-width: 707px;
+    margin: 0% 35%;
+    min-width: 707px;
+}
+
+footer{
+    max-width: 800px;
+    min-width: 707px;
+    margin-top: 30px;
+    margin-left: 27%;
+    padding-top: 20px;
+    border: 1px solid #ddd;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+
+}    
+
+main .titulo{
+    font-weight: 400;
+    font-size: 2.2rem;
+    padding: 25px 120px 20px 50px;
+    border: 1px solid #ddd;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom: none;
+}
+
+main .titulo:hover{
+    cursor: auto;
+}
+
+body .container form{
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding-left: 50px;
+}
+
+form{
+    border: 1px solid #ddd;
+    border-bottom: none;
+    border-top: none;
+}
+
+form input{
+    margin: 5px 0px 10px 0px;
+    padding: 9px 186px 10px 7px;
+    font-size: 1.1rem;
+    text-align:left;
+    border: 1px solid #a6a6a6;
+    border-top-color: #949494;
+    border-radius: 4px;
+    box-shadow: 0 1px 0 rgba(255,255,255,.5), 0 1px 0 rgba(0,0,0,.07) inset;
+    outline: 0;
+}
+
+input:focus{
+    box-shadow: 0px 0px 0px 3px rgba(34, 255, 255, 0.253);
+}
+
+form button{
+    margin: 0px 0px 25px 0px;
+    padding: 15px 156px;
+    font-weight: 600;
+    font-size: 1rem;
+    border: none;
+    background-color: #ffd900a1;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+form button:hover{
+    background-color: #ffd900;
+}
+
+form button:active{
+    box-shadow: 0px 0px 0px 3px rgba(34, 255, 255, 0.253);
+}
+
+.condition-text{
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-bottom: 25px;
+    border: 1px solid #ddd;
+    border-bottom: none;
+    border-top: none;
+}    
+
+a{
+    text-decoration: none;
+    color: rgb(23, 54, 196);
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(216, 87, 70);
+}
+
+summary{
+    padding-left: 60px;
+    list-style: none;
+    color: rgb(23, 54, 196);
+    border: 1px solid #ddd;
+    border-bottom: none;
+    border-top: none;
+}
+
+summary:hover{
+    text-decoration: underline;
+    color: rgb(216, 87, 70);
+    cursor: pointer;
+}
+
+details p{
+    border: 1px solid #ddd;
+    border-bottom: none;
+    border-top: none;
+    padding: 10px 0px 0px 60px ;
+}
+
+h4{
+    padding-left: 50px;
+    padding-top: 20px;
+    border: 1px solid #ddd;
+    border-top: none;
+    border-bottom: none;
+}
+
+.amazon-business{
+    padding-left: 50px;
+    padding-top: 5px;
+    padding-bottom: 30px;
+    border: 1px solid #ddd;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-top: none;
+}
+
+.crear-cuenta{
+    margin: 20px 205px 20px 0px
+}
+
+legend{
+    text-align: center;
+    color: #949494;
+    margin-top: 20px;
+   
+}
+
+fieldset{
+    border-style: solid;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-top-color: #ddd;
+}
+
+.crear-cuenta button{
+    font-weight: 600;
+    font-size: 1rem;
+    margin-top: 10px;
+    margin-left: 0px;
+    padding: 10px 147px 10px 152px;
+    border-radius: 9px;
+    background-color: white;
+    border: solid 1px #ddd;
+    box-shadow: 0px 2px 2px 0.3px rgb(230, 229, 229);
+}
+
+.crear-cuenta button:hover{
+    cursor: pointer;
+    background-color: rgb(250, 250, 250)
+}
+
+.footer-links a{
+    padding: 25px 15px 0 15px;
+    font-size: 0.85rem;
+}
+
+.copy{
+    margin-top: 50px;
+    font-size: 0.85rem;
+}

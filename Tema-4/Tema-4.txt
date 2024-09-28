@@ -1,0 +1,232 @@
+Nos encargan la realización, dentro de una auditoría de seguridad informática, de la tarea de identificación de activos de 
+información.
+
+La empresa es una pyme dedicada al sector servicios, concretamente una agencia inmobiliaria, que dispone de una red LAN con un 
+servidor central y diez puestos.
+
+Se debe realizar el inventario de equipamiento físico, de equipamiento lógico y de registros.
+
+Respuesta:
+
+	Equipamiento Fisico
+
+	Servidor
+
+Tipo: NAS
+Marca: Qnap
+Modelo: TS-253E-8G
+Procesador: Intel Celeron J6412, 4 nucleos, 2GHz
+RAM: 8GB
+Bahías: 2 unidades disco duro SATA 3.5",2.5" o estado solido 2,5"
+2 unidades disco duro Western Digital 24TB Red Pro
+Caché: 2 unidades M.2 NVMe
+2 unidades Western Digital 500GB M.2 NVMe WDS500G1ROC
+Almacenamiento:  2 WD Red Plus 3.5" 10TB NAS SATA3
+EAN: 4711103082171
+
+	Switch Principal
+
+Tipo: Switch
+Marca: Qnap
+Modelo: QSW-1108-8T
+Gestionable: No
+Puertos: 8 RJ45 2.5GbE
+EAN: 4713213519851
+Hub (2)
+
+Tipo: Hub
+Marca: Mercusys
+Modelo: MS105G
+Gestionable: No
+Puertos: 5 RJ45 1GbE
+
+	Ordenadores Trabajadores (8)
+
+Tipo: Sobremesa
+Marca: PcCom
+caja: Alurin Work Torre ATX Negra
+Procesador: Intel Core i3-12100 3.3 GHz
+Placa base: Gigabyte H610M S2H DDR4
+Disco duro: 500GB NVMe PCIe 3.0
+Memoria RAM: 3200: MHz 16GB 2x8GB CL16
+Tarjeta Grafica: Gráficos HD Intel 630
+Fuente de alimentación: Tempest PSU 650W
+Tarjeta de sonido: integrada
+Tarjeta de Red: TP-LINK TL-WN881ND 300Mbs 11n Wireless PCI Express Ver 2.0
+Conexiones delanteras
+USB 3.0 x1
+USB 2.0 x2
+Auricular/Microfono
+Encendido/Apagado
+Conexiones traseras
+1x PS/2 Keyboard port
+1x PS/2 Mouse port
+1x D-Sub port
+1x DVI-D port
+1x DisplayPort
+1x HDMI port
+2x USB 3.2 Gen 1 ports
+4x USB 2.0/1.1 ports
+1x RJ45 port
+3x Audio jacks
+
+	Ordenador Jefe + Administrador servidor
+
+Tipo: Sobremesa
+Marca: Montado por piezas
+Procesador: Intel Core i5-12400 2.5-GHz
+Placa Base: MSI B760 Gaming PLUS WIFI
+Memoria RAM: Kingston FURY Beast DDR5 5200MHz 32GB 2x16GB CL40
+Caja: Tempest Umbra RGB Torre ATX Negra
+Refrigeración CPU: Ventilador Nox Hummer H-212 CPU Cooler
+Fuente de alimentación: Corsair CX750 750 W 80 Plus Bronze
+Almacenamiento: Kioxia EXCERIA PLUS G3 2TB SSD M.2 2280 PCIe Gen4 x4
+Monitores (10)
+
+Tipo: Monitor
+Marca: Asus
+Modelo: VA24EHF 23.8" IPS FullHD 100Hz
+Cableado
+
+HDMI: x10 1,5M (Monitores)
+RJ45 Cat5e: x2 1.5M (NAS a SWITCH)
+RJ45 Cat5e: x2 20M (SWITCH a ORDENADOR JEFE y ADMINISTRADOR DE SERVIDOR)
+RJ45 Cat6: x2 10M ( SWITCH a HUB)
+RJ45 Cat6 x8 20M ( HUB a ORDENADORES TRABAJADORES)
+Equipamiento Logico
+
+	Servidor
+
+OS: QTS 5.2
+Almacenamiento: RAID1
+APPS
+Container Station
+Virtualization Station
+Windows Server 2022
+Centro de notificaciones
+Q'center
+Qsirch
+QmailAgent
+QLog Center
+Qsync
+
+	Switch Principal
+
+No Gestionable
+
+	Hub(2)
+
+No Gestionable
+
+	Ordenadores Trabajadores (8)
+
+OS: Windows Home Pro
+APPS:
+Adobe Acrobat Pro
+Google Chrome
+Witei (trabajador)
+WhatsApp
+Microsoft Teams (administrador)
+Gmail
+Microsoft Windows Fotos
+
+	Ordenador Jefe
+
+OS: Windows Home Pro
+APPS:
+Adobe Acrobat Pro
+Google Chrome
+Witei (administrador)
+WhatsApp
+Microsoft Teams (administrador)
+Gmail
+Microsoft Windows Fotos
+Microsoft 365
+
+	Ordenador Administrador Servidor
+
+OS: Windows Server 2022
+APPS:
+Administrador de servidor
+Qfinder Pro
+Qsync
+Qsirch PC Edition
+QNAP JBOD Manager
+
+	Registro
+
+  Servidor
+
+ AUTORIDAD TOTAL
+
+Datos, fotos y videos
+Casas, parcelas, etc...
+Datos clientes
+DNI
+Nombre completo
+Dirección, CP
+Nº TLF
+Nº Cuenta banco
+Contratos (RGPD y Facturas)
+Datos Trabajadores
+DNI
+Nombre completo
+Dirección, CP
+NºTLF
+Nº Cuenta banco
+Nominas
+Contratos
+Nombre de Usuarios y Contraseñas
+Datos Proveedores
+Nombre de proveedor
+CIF
+Nº TLF
+Contrato
+Nº Cuenta banco
+Datos Monetarios
+Balance de Gastos y beneficios
+Datos Empresa
+Nº Fiscal negocio (CIF)
+Proyecto de apertura de negocio
+Permisos y licencias
+Seguros
+Correos (Copia de seguridad)
+
+	Switch Principal
+
+Todo el trafico de red interna
+No Gestionable
+
+	Hub(2)
+
+Datos utilizados por trabajadores (8)
+No Gestionable
+
+	Ordenador Trabajadores(8)
+
+Datos, fotos y videos (Lectura)
+Casas, parcelas, etc...
+Datos de clientes (Lectura y ejecución)
+Datos Correos
+Datos WhatsApp
+Datos Microsoft Teams
+Datos Witei (usuario)
+
+	Ordenador Jefe
+
+Datos, fotos y videos(Modificación)
+Casas, parcelas, etc...
+Datos clientes(Modificación)
+Datos trabajadores(Modificación)
+Excepto usuarios y contraseñas (Modificaión)
+Datos proveedores(Modificación)
+Datos monetarios(Modificación)
+Datos de empresa(Modificación)
+Datos Correos
+Datos Whatsapp
+Datos Microsoft Teams
+Datos Witei (Administrador)
+
+	Ordenador Administrador Servidor
+
+Datos Totales (Control total)

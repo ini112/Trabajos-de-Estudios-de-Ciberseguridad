@@ -1,0 +1,34 @@
+OPCIÓN C
+
+Eres el consejero delegado de una empresa dedicada a la compraventa de productos textiles con un importante volumen de facturación, 
+en torno a 20 millones de euros anuales y una plantilla de unos 500 empleados.
+
+Los clientes de la empresa son tiendas de moda independientes y también un importante número de clientes a través de vuestra página 
+de comercio electrónico online.
+
+Diseña un escenario en el que tienes que implementar el RGPD en la empresa, con el objetivo de preparar los documentos básicos y 
+justificar la inversión en esta materia tanto para el comité de dirección como para la junta de accionistas. Debes realizar las 
+siguientes fases:
+
+1. Evaluación previa de las necesidades de cumplimiento del RGPD
+A partir de un supuesto de los tipos de datos y volúmenes que maneja tu empresa debes realizar dos evaluaciones, la que se realiza 
+automáticamente en la herramienta Facilita de la AEPD y realizar la Evaluación de Impacto de Protección de Datos, utilizando para 
+ello la Guía práctica de Análisis de Riesgo en el sitio web de la AEPD.
+
+2. Creación en formato Word de los documentos de cumplimiento RGPD
+A partir de los Anexos de la Guía del Reglamento General de Protección de Datos para responsables de tratamiento crearás en formato 
+Word editable los siguientes documentos:
+
+• Análisis de la necesidad de la realización de un EIPD.
+• Descripción de las actividades en el tratamiento.
+• Registro de actividades para el responsable de tratamiento.
+• Registro de actividades para el encargado de tratamiento.
+
+3. Creación de contratos y documentos de designación
+A partir de las obligaciones y recomendaciones del RGPD crearás los borradores de los siguientes documentos:
+• Contrato con el encargado de tratamiento.
+• Designación del delegado de protección de datos DPO.
+
+4. Creación de informe de justificación
+Crearás un breve informe de justificación de la adopción de las medidas anteriormente realizadas, destacando el importe de las 
+multas a las que se enfrenta la empresa si incumple las obligaciones del RGPD.

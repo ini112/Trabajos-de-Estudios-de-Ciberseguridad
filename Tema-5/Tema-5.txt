@@ -1,0 +1,21 @@
+Como responsables del departamento de análisis de un laboratorio de análisis informático forense debemos comprobar que la 
+herramienta instalada, Autopsy, es capaz de recuperar los datos de navegación en internet de un determinado dispositivo.
+
+Se deben comprobar los registros de navegación una vez que el usuario del navegador haya borrado los mismos de manera convencional.
+
+Respuesta:
+
+El primer paso sería reconocer que navegador de internet utiliza:
+Google Chrome
+
+Despues con la información del navegador, buscaríamos el directorio que utiliza el propio navegador para guardar los registros de 
+navegación: (En este caso sería el directorio del sistema operativo de Windows)
+C:\users\"nombre de usuario"\AppData\Local\Google\Chrome\User Data\Default
+
+Entonces utilizaríamos el programa Autopsy para restaurar los datos a su estado anterior a su borrado.
+
+Una vez restaurados podremos ver las paginas visitadas con sus tiempos en la sección de DATA ARTIFACTS / WEB CACHE.
+
+"Adjunto los pasos realizados para leer los logs de web de Chrome. No los he borrado ni restaurado porque no me deja visualizar 
+los documentos borrados (he hecho una prueba con un TXT)"
+

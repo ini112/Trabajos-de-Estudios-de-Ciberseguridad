@@ -1,0 +1,36 @@
+Realiza una página web phishing que simule ser otra para captar en el formulario las credenciales de un usuario mediante un script 
+php, que podemos escribir o bien buscar un modelo en la red.
+
+Para realizar la simulación, duplica la página de bootstrap en su URL https://getbootstrap.com/docs/4.0/examples/signin/ para crear 
+tu web falsa, de manera que no incurramos en ningún ciberdelito.
+
+Una vez que tengamos la web falsa, describe cómo la haremos llegar a los usuarios para obtener sus credenciales.
+
+Respuesta:
+
+	Creación Web Phising (AMAZON)
+
+Para crear la web de phising empezaria buscando la web a clonar ( en este caso seria AMAZON ). 
+Utilizaría VISUAL STUDIO CODE para empezar escribiendo el codigo de la pagina con HTML para los formularios(Metodo POST) y CSS para 
+que visualmente sea parecida a la web de origen, despues incluiria PHP para recibir los datos de los formularios (Metodo POST) y 
+enviarmelos a mi base de datos MYSQL, despues usando PHP redirigiría a las victimas a la pagina original de AMAZON.
+
+	Distribución Web Phising
+
+Para la distribución de la web de phising utilizaríamos cuentas de email likeadas de la deepweb con las que automatizariamos un 
+envio masivo de correos con PYTON, por ejemplo con ESTE REPOSITORIO de GITHUB y como proveedor del servicio de email, utilizaríamos 
+PROTONMAIL.
+
+	Contenido del email
+
+Para el contenido del correo que enviariamos a las victimas empezaría como tal:
+
+ 
+
+REMINTENTE: AMAZON.com <amazon54866@protonmail.com>
+
+ASUNTO: !IMPORTANTE Se ha paralizado tu envío
+
+Hola, ha ocurrido un problema con tu envio necesitamos que inicies sesión <<AQUÍ>> para solucionarlo.
+
+Adjunto doc (de como se veria la web de phishing)

@@ -1,0 +1,28 @@
+Como responsables de una empresa tipo pyme dedicada por ejemplo a la compraventa de productos fi tosanitarios, debemos implementar 
+el RGPD en nuestra actividad diaria.
+
+Como primer paso de las diferentes actividades que debemos realizar, vamos a emplear la herramienta Facilita de la Agencia Española 
+de Protección de Datos para obtener la primera documentación que necesitamos.
+
+Respuesta:
+
+Para empezar con la documentación del RGPD de nuestra empresa deberemos dirigirnos a esta pagina WEB.
+
+1. Una vez entrado en el link deberemos rellenar el capcha.
+2. Rellenar el tipo de sector al que pertenece nuestra empresa.
+3. Rellenar si nuestra organización trata algunos de los datos de la lista.
+4. Rellenar si nuestra organización realiza algunos de los siguientes tratamientos con la información.
+5. Rellenar los datos de nuestra empresa.
+6. Indicar si nuestra empresa trata con datos personales de personas fisicas. (Si es el caso, indicar los datos a recoger)
+7. Indicar si nuestra empresa trata con datos de clientes potenciales. (Si es el caso, indicar los datos a recoger)
+8. Indicar si nuestra empresa trata datos personales de empleados. (Si es el caso, indicar los datos a recoger)
+9. Indicar si nuestra empresa recoge datos de personas candidatas a ser trabajadores. (Si es el caso, indicar los datos a recoger)
+10. Indicar si nuestra empresa trata datos personales de proveedores. (Si es el caso, indicar los datos a recoger)
+11. Indicar si nuestra empresa capta imagenes mediante cámaras de videovigilancia con fines de seguridad.
+12. Indicar si nuestra empresa contrata a terceros (Mantenimiento pagina web, Hosting, Servicio de limpieza, etc...)
+13. Leer los terminos que nos aparecerán y aceptarlos.
+14. Descargar el documento.
+15. Leerlo y modificarlo si fuera necesario.
+
+	Adjunto el documento de RGPD de fitosanitarios S.A
+
